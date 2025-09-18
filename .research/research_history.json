@@ -4,5 +4,79 @@
     "LLM fine-tuning custom loss",
     "novel loss function fine-tuning",
     "language model loss design"
+  ],
+  "research_study_list": [
+    {
+      "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!"
+    },
+    {
+      "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!"
+    },
+    {
+      "title": "Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment"
+    },
+    {
+      "title": "Discovering Preference Optimization Algorithms with and for Large Language Models"
+    },
+    {
+      "title": "Risk-Averse Fine-tuning of Large Language Models"
+    },
+    {
+      "title": "Geometric-Averaged Preference Optimization for Soft Preference Labels"
+    },
+    {
+      "title": "Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data"
+    },
+    {
+      "title": "Token-level Direct Preference Optimization"
+    },
+    {
+      "title": "Fine-Tuning is Fine, if Calibrated"
+    },
+    {
+      "title": "How to prepare your task head for finetuning"
+    },
+    {
+      "title": "Distance-Based Regularisation of Deep Networks for Fine-Tuning"
+    },
+    {
+      "title": "Meta-Tuning Loss Functions and Data Augmentation for Few-Shot Object Detection"
+    },
+    {
+      "title": "Loss Function Discovery for Object Detection via Convergence-Simulation Driven Search"
+    },
+    {
+      "title": "Loss Function Learning for Domain Generalization by Implicit Gradient"
+    },
+    {
+      "title": "Loss Function Learning for Domain Generalization by Implicit Gradient"
+    },
+    {
+      "title": "Long-Tail Learning with Foundation Model: Heavy Fine-Tuning Hurts"
+    },
+    {
+      "title": "Language Generation with Strictly Proper Scoring Rules"
+    },
+    {
+      "title": "Examining Scaling and Transfer of Language Model Architectures for Machine Translation"
+    },
+    {
+      "title": "Examining Scaling and Transfer of Language Model Architectures for Machine Translation"
+    },
+    {
+      "title": "Data-dependent Gaussian Prior Objective for Language Generation"
+    },
+    {
+      "title": "EMO: EARTH MOVER DISTANCE OPTIMIZATION FOR AUTO-REGRESSIVE LANGUAGE MODELING"
+    },
+    {
+      "title": "Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation"
+    },
+    {
+      "title": "Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation"
+    },
+    {
+      "title": "Implicit Optimization Bias of Next-token Prediction in Linear Models"
+    }
   ]
 }
