@@ -3,5 +3,19 @@
   "queries": [
     "LLM fine-tuning novel loss",
     "custom loss transformer fine-tuning"
+  ],
+  "research_study_list": [
+    {
+      "title": "Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment"
+    },
+    {
+      "title": "Selecting Large Language Model to Fine-tune via Rectified Scaling Law"
+    },
+    {
+      "title": "On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong Baselines"
+    },
+    {
+      "title": "Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning"
+    }
   ]
 }
